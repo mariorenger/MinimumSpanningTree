@@ -1,4 +1,4 @@
-Bài toán đơn giản hơn so với bài toán gốc: Các cạch đều có trọng số là 1
+Bài toán:Các cạch đều có trọng số là 1
 	=> dijkstra trả về đường đi ngắn nhất bằng tổng số cạch 
 
 Hình ảnh được render ra flie grap.gv.pdf:
